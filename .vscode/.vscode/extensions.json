@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-close-tag",
+    "pkief.material-icon-theme",
+    "zhuangtongfa.Material-theme"
+  ]
+}
